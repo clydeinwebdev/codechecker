@@ -3,7 +3,9 @@ Code Checker: Yet Another Class Management Platform for Programming Courses
 
 ### Todo's
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] Web Framework: Node.js and Express
+- [ ] Modern Responsive Front-End Framework: MaterializeCSS
+- [ ] File Upload: Multer
+- [ ] Authentication: Passport
+- [ ] Compiler: Decode Package
+- [ ] Database: MongoDB or FireBase or MySQL or SQLite
